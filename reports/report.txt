@@ -1,0 +1,16 @@
+SYSTEM REPORT
+Generated on: Sat May 16 14:49:58 IST 2026
+
+Current User:
+Tejas
+
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  152G   91G   62G  60% /
+D:                     87G  3.0G   84G   4% /d
+
+Files and Folders:
+backup
+monior.sh
+monitor.sh
+reports
