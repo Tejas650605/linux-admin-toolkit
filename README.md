@@ -35,6 +35,8 @@ The toolkit helps system administrators perform common tasks easily and efficien
 
 ![Linux Admin Toolkit](project.png)
 <img width="1366" height="768" alt="project (2)" src="https://github.com/user-attachments/assets/280a345c-62fe-496d-9f07-286591ace71f" />
+<img width="1366" height="768" alt="project (3)" src="https://github.com/user-attachments/assets/0ee7f76d-9743-4e4b-85e8-195abfee0e80" />
+<img width="1366" height="768" alt="project (4)" src="https://github.com/user-attachments/assets/0ac37ed2-9f9f-4f7f-85d1-d243fe565386" />
 
 The project runs in terminal with an interactive menu system.
 
