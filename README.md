@@ -31,7 +31,9 @@ The toolkit helps system administrators perform common tasks easily and efficien
 ---
 
 ## 📷 Project Output
+## 📸 Project Screenshot
 
+![Linux Admin Toolkit](project.png)
 The project runs in terminal with an interactive menu system.
 
 ---
